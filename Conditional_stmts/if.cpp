@@ -9,11 +9,6 @@ int main(){
    }
    else
    cout<<"youre not eligible";
-
-
    return 0;
-
-
-
 }
 
