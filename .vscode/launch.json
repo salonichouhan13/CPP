@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/HP/Desktop/salonieee.cpp",
-      "program": "c:/Users/HP/Desktop/salonieee.cpp/build/Debug/outDebug",
+      "cwd": "c:/Users/HP/OneDrive/Desktop/salonieee.cpp",
+      "program": "c:/Users/HP/OneDrive/Desktop/salonieee.cpp/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
