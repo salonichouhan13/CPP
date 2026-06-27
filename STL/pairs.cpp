@@ -1,10 +1,12 @@
 #include<bits/stdc++.h>
 using namespace std;
-int main(){
-  pair<int,int> p ={1,4};
-  cout<<p.first<<""<<p.second;
-  pair<int, pair<int, int>> p = {2,{3,5}};
-  cout<<p.first<<""<< p.second.first<<""<< p.second.second;
-  pair<int,int>arr[]={{2,4},{5,8},{3,9}};
-  cout<<arr.[1].second;
+
+int main() {
+    pair<int,int> p1 = {1,4};
+    cout << p1.first << " " << p1.second << endl;
+
+    pair<int, pair<int,int>> p2 = {2,{3,5}};
+    cout << p2.first << " " << p2.second.first << " " << p2.second.second << endl;
+
+    return 0;
 }
