@@ -1,6 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
+  vector<int>v;
 
   vector<int>::iterator t = v.begin();
   t++;
